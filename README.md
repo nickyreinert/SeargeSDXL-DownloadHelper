@@ -1,5 +1,5 @@
 # SeargeSDXL-DownloadHelper
-A simple python script that downloads models and accessories for SeargeSDXL to run in ComfyUI.
+A simple python script that downloads models and accessories for [SeargeSDXL](https://github.com/SeargeDP/SeargeSDXL) to run in [ComfyUI](https://github.com/comfyanonymous/ComfyUI).
 
 This downloader uses HuggingFace's download routine which is better in handling the local cache and also allows you to provide a token to download private from private repositories.
 
